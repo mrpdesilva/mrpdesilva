@@ -1,0 +1,195 @@
+.home_body {
+    background-image: url("resources/background\ images/particlesjs-examples.gif");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main-body {
+    background-image: url("resources/background\ images/background-body.svg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    background-image: url("resources/logo/logo.jpg");
+    height: 370px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.signIn-logo {
+    background-image: url("resources/logo/log.png");
+    height: 150px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.login {
+    background-image: url("resources/background\ images/login.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.province-icon {
+    background-image: url("resources/icons/sri-lanka.png");
+    height: 20px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.school-icon {
+    background-image: url("resources/icons/school.png");
+    height: 20px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.text-header {
+    font-family: "NotoSerif";
+}
+
+.text-body {
+    font-family: "Ubuntu-Medium";
+}
+
+* {
+    font-family: "Signika";
+}
+
+.icon1 {
+    background-image: url("resources/icons/test.png");
+    height: 80px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.icon2 {
+    background-image: url("resources/icons/score\ \(3\).png");
+    height: 80px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.icon3 {
+    background-image: url("resources/icons/pencil.png");
+    height: 80px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.icon4 {
+    background-image: url("resources/icons/stack-of-books.png");
+    height: 80px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.icon6 {
+    background-image: url("resources/icons/youtube.png");
+    height: 80px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.icon5 {
+    background-image: url("resources/icons/pearson-logo.svg");
+    height: 80px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.user-icon{
+    background-image: url("resources/icons/user\ \(1\).png");
+    height: 40px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo-icon{
+    background-image: url("resources/logo/log.png");
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@font-face {
+    font-family: "NotoSerif";
+    src: url(font/NotoSerif-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: "NotoSerif-Italic";
+    src: url(font/NotoSerif-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: "Pacifico";
+    src: url(font/Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Ubuntu-Bold";
+    src: url(font/Ubuntu-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Ubunto-BoldItalic";
+    src: url(font/Ubuntu-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "Ubuntu-Italic";
+    src: url(font/Ubuntu-Italic.ttf);
+}
+
+@font-face {
+    font-family: "Ubuntu-Light";
+    src: url(font/Ubuntu-Light.ttf);
+}
+
+@font-face {
+    font-family: "Ubuntu-LightItalic";
+    src: url(font/Ubuntu-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: "Ubuntu-Medium";
+    src: url(font/Ubuntu-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Ubuntu-MediumItalic";
+    src: url(font/Ubuntu-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url(font/Ubuntu-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Signika";
+    src: url(font/SignikaNegative-VariableFont_wght.ttf);
+}

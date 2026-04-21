@@ -84,7 +84,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:E8559A,50:6DD5F0,100:1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-📬 **roshanipiumali8@gmail.com** &nbsp;·&nbsp; 📍 **Negombo, Sri Lanka**
+📬 **roshanipiumali8@gmail.com** &nbsp;·&nbsp; 📍 **Colombo, Sri Lanka**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mrpdesilva&style=for-the-badge&color=6DD5F0&labelColor=1a1a2e)](https://github.com/mrpdesilva)
 
